@@ -1,6 +1,6 @@
 # Nick — Software Engineer
 
-👤 Nick  
+👤 Nick Lin
 💻 Software Engineer  
 📍 New Taipei City, Taiwan  
 🗣️ Traditional Chinese

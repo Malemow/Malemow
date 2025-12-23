@@ -41,6 +41,14 @@ For me, gaming is more than entertainment — it is a way to:
 - Gin
 - Fastify
 
+### 🎨 Frontend & UI
+- Tailwind CSS
+- UI Libraries
+	- NuxtUI
+	- Element Plus
+	- Naive UI
+- Icons: Iconify
+
 ### 🗄️ Databases
 - SQLite
 - MySQL
@@ -77,10 +85,14 @@ For me, gaming is more than entertainment — it is a way to:
 
 This repository contains detailed documentation of my personal IT environment:
 
-- 📘 **[Personal IT Architecture](https://github.com/Malemow/Note)**  
+- 📘 **[Personal IT Architecture](https://github.com/Malemow/Note)**
   Architecture overview, tools, hardware inventory, server stack, and operations guide.
 
-> The architecture document is intended for long-term maintenance and public sharing,  
+- 🧪 **[Practice-Lab](https://github.com/Malemow/Practice-Lab)**
+  Personal practice laboratory for implementing, testing, and learning various tech stacks.
+  Organized practice projects covering frontend, languages, frameworks, databases, and infrastructure.
+
+> The architecture document is intended for long-term maintenance and public sharing,
 > with sensitive infrastructure details deliberately omitted.
 
 ---

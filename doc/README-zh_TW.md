@@ -38,6 +38,14 @@
 - Gin
 - Fastify
 
+### 🎨 前端與 UI
+- Tailwind CSS
+- UI 函式庫
+	- NuxtUI
+	- Element Plus
+	- Naive UI
+- 圖示：Iconify
+
 ### 🗄️ 資料庫
 - SQLite
 - MySQL
@@ -74,10 +82,14 @@
 
 本儲存庫包含我個人 IT 環境的詳細說明文件：
 
-- 📘 **[個人 IT 架構文件](https://github.com/Malemow/Note)**  
+- 📘 **[個人 IT 架構文件](https://github.com/Malemow/Note)**
   架構總覽、工具鏈、硬體清冊、伺服器服務與維運指南。
 
-> 此架構文件以長期維護與公開分享為目的，  
+- 🧪 **[Practice-Lab](https://github.com/Malemow/Practice-Lab)**
+  個人技術練習實驗室，用於實作、測試和學習各種技術棧。
+  涵蓋前端、程式語言、框架、資料庫與基礎設施的組織化練習專案。
+
+> 此架構文件以長期維護與公開分享為目的，
 > 為避免暴露敏感資訊，已刻意省略內部網路與基礎設施細節。
 
 ---
